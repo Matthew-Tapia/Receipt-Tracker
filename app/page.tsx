@@ -1,7 +1,11 @@
-import Image from 'next/image'
+import FileUploader from "@/components/FileUploader";
 
 export default function Home() {
   return (
-    <main>Travel Receipt Tracker</main>
-  )
+    <main>
+      <div>
+        <FileUploader />
+      </div>
+    </main>
+  );
 }
