@@ -3,11 +3,6 @@ import type { Metadata } from 'next'
 import Navbar from '@/components/Navbar'
 
 
-export const metadata: Metadata = {
-  title: 'Receipt Tracker App',
-  description: 'Web app for tracking travel receipts',
-}
-
 export default function RootLayout({
   children,
 }: {

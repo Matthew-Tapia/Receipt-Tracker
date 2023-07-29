@@ -16,30 +16,43 @@ interface ItineraryItem {
 
 interface ItineraryCardProps {
     item: ItineraryItem;
+    isOpen: boolean;
+    onOpen: () => void;
 }
 
-const ItineraryCard: React.FC<ItineraryCardProps> = ({ item }) => {
-    const [isModalOpen, setIsModalOpen] = useState<Boolean>(false)
-
-    const toggleModal = () => setIsModalOpen(!isModalOpen)
-
+const ItineraryCard: React.FC<ItineraryCardProps> = ({ item, isOpen, onOpen }) => {
     return (
-        <div className="card bg-white w-320 h-320 rounded-md p-4 cursor-pointer hover:bg-neutral-100" onClick={toggleModal} >
-            {item.type} from {item.startLocation} to {item.endLocation}
-            <p>
-                <strong>Leaves at </strong> {item.startTime}
-            </p>
-            <p>
-                <strong>Arrives at</strong> {item.endTime}
-            </p>
-            <p>
-                <strong>Cost:</strong> {item.cost}
-            </p>
-            {isModalOpen && (
-                <div className="modal">
-                    <div className="modal-content">
-                        <span className="close" onClick={toggleModal}>&times;</span>
-
+        <div>
+            <div className="card bg-white w-320 h-320 rounded-md p-4 cursor-pointer hover:bg-neutral-100" onClick={onOpen} >
+                {item.type} from {item.startLocation} to {item.endLocation}
+                <p>
+                    <strong>Leaves at </strong> {item.startTime}
+                </p>
+                <p>
+                    <strong>Arrives at</strong> {item.endTime}
+                </p>
+                <p>
+                    <strong>Cost:</strong> {item.cost}
+                </p>
+            </div>
+            {isOpen && (
+                <div className="fixed inset-0 flex items-center justify-center z-10">
+                    <div className="bg-black bg-opacity-60 absolute inset-0" onClick={onOpen}></div>
+                    <div className="modal bg-white w-3/4 h-3/4 rounded-md p-4 relative z-20">
+                        <h2 className="flex justify-center font-bold text-3xl">
+                            {item.type} from {item.startLocation} to {item.endLocation} <br />
+                        </h2>
+                        <h2 className="flex justify-center">{item.startDate} - {item.endDate}</h2>
+                        <p>
+                            <strong>Leaves at </strong> {item.startTime} from {item.startLocation}
+                        </p>
+                        <p>
+                            <strong>Arrives at</strong> {item.endTime} from {item.endLocation}
+                        </p>
+                        <p>
+                            <strong>Cost:</strong> {item.cost}
+                        </p>
+                        <span className="close absolute top-0 right-0 p-2" onClick={onOpen}>&times;</span>
                     </div>
                 </div>
             )}
@@ -47,4 +60,4 @@ const ItineraryCard: React.FC<ItineraryCardProps> = ({ item }) => {
     );
 }
 
-export default ItineraryCard
+export default ItineraryCard;
