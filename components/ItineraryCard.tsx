@@ -25,7 +25,7 @@ const ItineraryCard: React.FC<ItineraryCardProps> = ({ item }) => {
 
     return (
         <div className="card bg-white w-320 h-320 rounded-md p-4 cursor-pointer hover:bg-neutral-100" onClick={toggleModal} >
-            Flight from {item.startLocation} to {item.endLocation}
+            {item.type} from {item.startLocation} to {item.endLocation}
             <p>
                 <strong>Leaves at </strong> {item.startTime}
             </p>
