@@ -8,7 +8,8 @@ export default function Home() {
     <Layout>
       <main>
         <div className="flex justify-center items-center min-h-screen">
-          <FileUploader />
+          Receipts go here
+          Fetch existing database entries and display here
         </div>
       </main>
     </Layout>
