@@ -14,17 +14,15 @@ export async function POST(req: Request) {
   const arrayBuffer = await file.arrayBuffer();
   const fileBuffer = Buffer.from(arrayBuffer);
 
-  console.log(file)
-
   const client = new ImageAnnotatorClient(CONFIG);
 
   const [result] = await client.textDetection(fileBuffer);
   const detections = result.textAnnotations;
 
-  console.log("Text:");
+  const text = detections![0].description;
+  const lines = text?.split("\n");
 
-
-  detections?.forEach(text => console.log(text));
+  lines?.forEach(str => console.log(str + "\n"));
 
   return new Response("OK");
 }
