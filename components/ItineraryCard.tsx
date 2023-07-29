@@ -31,9 +31,6 @@ const ItineraryCard: React.FC<ItineraryCardProps> = ({ item, isOpen, onOpen }) =
                 <p>
                     <strong>Arrives at</strong> {item.endTime}
                 </p>
-                <p>
-                    <strong>Cost:</strong> {item.cost}
-                </p>
             </div>
             {isOpen && (
                 <div className="fixed inset-0 flex items-center justify-center z-10">
