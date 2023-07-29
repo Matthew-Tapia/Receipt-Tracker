@@ -14,18 +14,12 @@ const FileUploader = () => {
   const handleUpload = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
 
-    const data = new FormData();
-    data.append("file", file!);
+    const url = URL.createObjectURL(file!)
+    setImageUrl(url);
 
     await fetch("/api/upload", {
       method: "POST",
-      body: data,
-    })
-    .then(res => res.blob())
-    .then(blob => {
-      console.log(blob)
-      let url = URL.createObjectURL(blob);
-      setImageUrl(url)
+      body: JSON.stringify({url: url}),
     });
   };
 

@@ -9,10 +9,10 @@ import { ImageAnnotatorClient } from "@google-cloud/vision";
 // }
 
 export async function POST(req: Request) {
-  const data = await req.formData();
-  const file: File | null = data.get("file") as unknown as File;
+  const data = await req.json();
+  const url : string = data.url; 
 
-  console.log(file)
+  console.log(url)
 
   // const client = new ImageAnnotatorClient(CONFIG);
 
@@ -24,5 +24,5 @@ export async function POST(req: Request) {
 
   // detections?.forEach(text => console.log(text));
 
-  return new Response(file);
+  return new Response("OK");
 }
