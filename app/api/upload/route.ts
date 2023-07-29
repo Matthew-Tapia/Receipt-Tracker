@@ -1,38 +1,28 @@
-import { NextApiRequest, NextApiResponse } from 'next';
-import multer from 'multer';
-import fs from 'fs';
-import util from 'util';
-import path from 'path';
+import { ImageAnnotatorClient } from "@google-cloud/vision";
+// import CREDENTIALS from "@/credentials.json"
 
-interface NextApiRequestWithFormData extends NextApiRequest {
-  file: any;
+// const CONFIG = {
+//   credentials: {
+//     private_key: CREDENTIALS.private_key,
+//     client_email: CREDENTIALS.client_email
+//   }
+// }
+
+export async function POST(req: Request) {
+  const data = await req.formData();
+  const file: File | null = data.get("file") as unknown as File;
+
+  console.log(file)
+
+  // const client = new ImageAnnotatorClient(CONFIG);
+
+  // const [result] = await client.textDetection("IMAGE FILE HERE");
+  // const detections = result.textAnnotations;
+
+  // console.log("Text:");
+
+
+  // detections?.forEach(text => console.log(text));
+
+  return new Response(file);
 }
-
-export const config = {
-  api: {
-    bodyParser: false,
-  },
-};
-
-const upload = multer({ dest: 'uploads/' });
-
-const readFile = util.promisify(fs.readFile);
-
-export const POST = async (req: NextApiRequestWithFormData, res: NextApiResponse) => {
-  await new Promise((resolve, reject) => {
-    upload.single('file')(req, res, (err) => {
-      if (err) {
-        reject(err);
-      }
-      resolve(null);
-    });
-  });
-
-  if (req.file) {
-    const buffer = await readFile(path.join(process.cwd(), req.file.path));
-    const base64 = buffer.toString('base64');
-    res.status(200).json({ file: base64 });
-  } else {
-    res.status(400).json({ error: 'No file uploaded' });
-  }
-};
