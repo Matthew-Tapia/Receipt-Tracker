@@ -58,7 +58,7 @@ const FileUploader = () => {
         <button type="submit">Upload</button>
         {imageUrl && <Image width='200' height='200' src={imageUrl} alt="Uploaded file preview" />}
         {modalVisible && itineraryData != null &&
-          <CreateCardForm itineraryData={itineraryData}></CreateCardForm>
+          <CreateCardForm itineraryData={itineraryData} imageURL={imageUrl!}></CreateCardForm>
         }
       </form>
     </div>
