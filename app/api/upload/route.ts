@@ -23,5 +23,5 @@ export async function POST(req: Request) {
   
   console.log(text);
 
-  return new Response("OK");
+  return new Response(JSON.stringify({text: text}));
 }

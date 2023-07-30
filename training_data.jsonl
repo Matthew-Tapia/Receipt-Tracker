@@ -1,0 +1,1018 @@
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 410,
+        "endOffset": 419,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 440,
+        "endOffset": 446,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 449,
+        "endOffset": 455,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 456,
+        "endOffset": 477,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 480,
+        "endOffset": 499,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "AMEX TRAVEL TRIP ID: 5434-5919\nTravel policies change, so we recommend that you check relevant government websites\n(for your destinations of travel) and your travel supplier websites-both prior to any\ncancellation deadlines and your dates of travel. For additional resources, please visit our\nCOVID-19 Information Hub. To cancel an upcoming booking, please visit the \"My Trips\"\nsection of AmexTravel.com.\nSun, August 13\nUnited 2096\nONE WAY\n7:45pm - 9:29pm\nSan Francisco CA, SFO\n- Los Angeles CA, LAX\nRECORD LOCATOR\nDES7FX\n1h 44m | Economy\nSeat: 30D\nNon-Stop\nNotes: Please review your itinerary on My Trips for additional details on specific refundability\nand penalty policies. Changes to your ticket, may incur any difference in fare. Once a ticket is\nissued, the name on the ticket cannot be changed. Airline rules & restrictions apply.\nAdd to Calendar\nSeat requests are passed to the airline, but cannot be guaranteed. Check with the airline soon after booking to\nconfirm.\n\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+        {
+          "startOffset": 60,
+          "endOffset": 71,
+          "displayName": "date"
+        },
+        {
+          "startOffset": 274,
+          "endOffset": 285,
+          "displayName": "date"
+        },
+        {
+          "startOffset": 73,
+          "endOffset": 80,
+          "displayName": "startTime"
+        },
+        {
+          "startOffset": 287,
+          "endOffset": 294,
+          "displayName": "endTime"
+        },
+        {
+          "startOffset": 90,
+          "endOffset": 132,
+          "displayName": "startLocation"
+        },
+        {
+          "startOffset": 0,
+          "endOffset": 8,
+          "displayName": "startLocation"
+        },
+        {
+          "startOffset": 81,
+          "endOffset": 89,
+          "displayName": "startLocation"
+        },
+        {
+          "startOffset": 12,
+          "endOffset": 29,
+          "displayName": "endLocation"
+        },
+        {
+          "startOffset": 295,
+          "endOffset": 312,
+          "displayName": "endLocation"
+        },
+        {
+          "startOffset": 313,
+          "endOffset": 350,
+          "displayName": "endLocation"
+        }
+    ],
+    "textContent": "New York to San Jos\u00e9 del Cabo\nFLIGHT AA 2237\nDEPARTING\nMon, Mar 13 2023, 07:25AM\nNew York\nJohn F Kennedy International Airport (JFK)\nAmerican Airlines\nOperated By American Airlines\nNon Stop\nDuration: 6 Hrs 23 Mins\nFLIGHT CONFIRMATION\nAmerican Airlines: AUODQB\nARRIVING\nMon, Mar 13 2023, 10:48AM\nSan Jos\u00e9 del Cabo\nLos Cabos International Airport (SJD)\nFLIGHT INFORMATION\nYour Seats: 27F\nECONOMY\nEquipment: 7M8\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 13,
+        "endOffset": 21,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 45,
+        "endOffset": 51,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 54,
+        "endOffset": 61,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 62,
+        "endOffset": 73,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 75,
+        "endOffset": 78,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 119,
+        "endOffset": 122,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "ONE WAY\nMon, March 13\nAmerican Airlines 2237\n7:25am - 10:48am\nNew York NY, JFK - San\nJos del Cabo Baja\nCalifornia Sur, SJD\nRECORD LOCATOR\nAUODQB\n6h 23m | Economy\nSeat: 27F\nAdd to Calendar\nNon-Stop\nNotes: Please review your itinerary on My Trips for additional details on specific refundability\nand penalty policies. Changes to your ticket, may incur any difference in fare. Once a ticket is\nissued, the name on the ticket cannot be changed. Airline rules & restrictions apply.\nSeat requests are passed to the airline, but cannot be guaranteed. Check with the airline soon after booking to\nconfirm.\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+},
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 46,
+        "endOffset": 52,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 149,
+        "endOffset": 155,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 53,
+        "endOffset": 61,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 156,
+        "endOffset": 164,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 62,
+        "endOffset": 65,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 66,
+        "endOffset": 82,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 165,
+        "endOffset": 168,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 169,
+        "endOffset": 176,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Alaska\nFlight 7\nBoeing 737-9 MAX\n(ETOPS)\nWed, Oct 19\n07:00 AM\nJFK\nNew York-Kennedy\nTraveler(s)\nBienn Raphael Viquiera\nSeat:, Class: X (Coach)\n\u2708\nWed, Oct 19\n10:22 AM\nSEA\nSeattle\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+},
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 47,
+        "endOffset": 53,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 54,
+        "endOffset": 62,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 148,
+        "endOffset": 156,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 157,
+        "endOffset": 160,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 161,
+        "endOffset": 177,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 63,
+        "endOffset": 66,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 67,
+        "endOffset": 74,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Alaska\nFlight 76\nBoeing 737-9 MAX\n(ETOPS)\nSun, Oct 23\n11:35 PM\nSEA\nSeattle\nTraveler(s)\nBienn Raphael Viquiera\nSeat:, Class: X (Coach)\n\u2708\nMon, Oct 24\n07:45 AM\nJFK\nNew York-Kennedy\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 0,
+        "endOffset": 11,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 15,
+        "endOffset": 22,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 33,
+        "endOffset": 45,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 87,
+        "endOffset": 99,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 47,
+        "endOffset": 55,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 101,
+        "endOffset": 109,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 56,
+        "endOffset": 68,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 118,
+        "endOffset": 130,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 70,
+        "endOffset": 77,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 132,
+        "endOffset": 139,
+        "displayName": "endTime"
+      }
+    ],
+    "textContent": "Los Angeles to Chicago - AA 2048\nAug 29, 2022, 10:56 PM-Aug 30, 2022, 5:00 AM\nTake-off\nAug 29, 2022, 10:56 PM\nLanding\nAug 30, 2022, 5:00 AM\nL\n8\nFlight duration\n4 hr, 4 min\nConfirmation number\nYKQRMH\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 8,
+        "endOffset": 23,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 110,
+        "endOffset": 125,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 24,
+        "endOffset": 27,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 28,
+        "endOffset": 35,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 36,
+        "endOffset": 50,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 55,
+        "endOffset": 63,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 64,
+        "endOffset": 75,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Monday, August 29, 2022\nORD\n5:00 AM\nChicago O'Hare\nLAX\n10:56 PM\nLos Angeles\nAA 2048\nA Flight arrives Tuesday, August 30, 2022\nSeat:\n22F\nClass: (V)\nMeals: Refreshment\n\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 29,
+        "endOffset": 36,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 9,
+        "endOffset": 24,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 25,
+        "endOffset": 28,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 71,
+        "endOffset": 90,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 37,
+        "endOffset": 51,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 63,
+        "endOffset": 70,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 59,
+        "endOffset": 62,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Tuesday, August 30, 2022\nORD\n6:30 AM\nChicago O'Hare\nAA 408\nLGA\n9:33 AM\nNew York La Guardia\nSeat: 22F\nClass: (V)\nMeals:\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 87,
+        "endOffset": 92,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 329,
+        "endOffset": 335,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 386,
+        "endOffset": 392,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 336,
+        "endOffset": 347,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 370,
+        "endOffset": 385,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Passenger Info\nName: BIENN RAPHAEL VIQUIERA\nSkyMiles #9036406545\nFLIGHT\nDELTA 313\nThu, 12MAY\nVisit delta.com or use the Fly Delta app to view, select or change your seat. If you\npurchased a Delta Comfort+\u2122 seat or a Trip Extra, please visit My Trips to access a\nreceipt of your purchase.\nDELTA 313\nMain Cabin (K)\nDEPART\nSEAT\n27A\n5:15pm\nNYC-KENNEDY\nMANAGE MY TRIP\nARRIVE\nLOS ANGELES, CA\n8:34pm\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 644,
+        "endOffset": 647,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 648,
+        "endOffset": 658,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 659,
+        "endOffset": 674,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 603,
+        "endOffset": 618,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 620,
+        "endOffset": 628,
+        "displayName": "startTime"
+      }
+    ],
+    "textContent": "Thank you for using GO PRIME TIME AIRPORT SHUTTLE.\nOnline Reservations: For your convenience you can now make any future reservations, quickly and\neasily, at our web site at www.ToTheAirport.com\nThis email contains your reservation confirmation. Below is the detail of your scheduled service.\nPlease review it carefully and call us immediately at 1-203-891-1280 or 1-800-377-8745 if there are\nany corrections that need to be made.\nReservation\nDetails\nID::\nName:\nPhone Number:\nPassengers:\nDate:\nService:\nPickup Location:\nDropoff location:\nFare:\nPT5327390\nBIENN RAPHAEL VIQUIERA\n(323) 684-1416\n1\nTuesday, August 29, 2023, 06:00 AM\nShared Service\nJFK\nCollege St Yale University - Phelps Gate\n$65.00\nPayment Method: Credit card\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 580,
+        "endOffset": 583,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 638,
+        "endOffset": 648,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 649,
+        "endOffset": 664,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 600,
+        "endOffset": 612,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 614,
+        "endOffset": 622,
+        "displayName": "startTime"
+      }
+    ],
+    "textContent": "Thank you for using GO PRIME TIME AIRPORT SHUTTLE.\nOnline Reservations: For your convenience you can now make any future reservations, quickly and\neasily, at our web site at www.ToTheAirport.com\nThis email contains your reservation confirmation. Below is the detail of your scheduled service.\nPlease review it carefully and call us immediately at 1-203-891-1280 or 1-800-377-8745 if there are\nany corrections that need to be made.\nReservation Details\nID::\nName:\nPhone Number:\nPassengers:\nPT5113089\nBIENN VIQUIERA\n(323) 684-1416\n1\nDate:\nService:\nPickup Location:\nDropoff location: JFK\nFare:\nThursday, May 12, 2022, 11:40 AM\nShared Service\nCollege St Yale University - Phelps Gate\n$63.00\nPayment Method: Credit card\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 596,
+        "endOffset": 613,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 615,
+        "endOffset": 623,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 650,
+        "endOffset": 665,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 639,
+        "endOffset": 649,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 680,
+        "endOffset": 683,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 668,
+        "endOffset": 679,
+        "displayName": "startLocation"
+      }
+    ],
+    "textContent": "Thank you for using GO PRIME TIME AIRPORT SHUTTLE.\nOnline Reservations: For your convenience you can now make any future reservations, quickly and\neasily, at our web site at www.ToTheAirport.com\nThis email contains your reservation confirmation. Below is the detail of your scheduled service.\nPlease review it carefully and call us immediately at 1-203-891-1280 or 1-800-377-8745 if there are\nany corrections that need to be made.\nReservation Details\nID::\nName:\nPhone Number:\nPassengers:\nDate:\nService:\nPickup Location:\nDropoff location:\nFare:\nPT5065776\nBIENN VIQUIERA\n(323) 684-1416\n1\nThursday, December 23, 2021, 06:40 AM\nShared Service\nCollege St Yale University - Phelps Gate\nJFK\n$59.00\nPayment Method: Credit card\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
+{
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 0,
+        "endOffset": 10,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 59,
+        "endOffset": 65,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 85,
+        "endOffset": 91,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 43,
+        "endOffset": 58,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 73,
+        "endOffset": 84,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Fri, 14JAN\nDELTA 324\nMain Cabin (T)\nDEPART\nLOS ANGELES, CA\n7:15am\nARRIVE\nNYC-KENNEDY\n3:43pm\n\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 0,
+        "endOffset": 10,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 55,
+        "endOffset": 61,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 85,
+        "endOffset": 91,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 43,
+        "endOffset": 54,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 69,
+        "endOffset": 84,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Thu, 23DEC\nDELTA 439\nMain Cabin (M)\nDEPART\nNYC-KENNEDY\n2:10pm\nARRIVE\nLOS ANGELES, CA\n5:27pm\n\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 0,
+        "endOffset": 10,
+        "displayName": "Sat, 19MAR"
+      },
+      {
+        "startOffset": 52,
+        "endOffset": 58,
+        "displayName": "12:00N"
+      },
+      {
+        "startOffset": 74,
+        "endOffset": 80,
+        "displayName": "2:35pm"
+      },
+      {
+        "startOffset": 38,
+        "endOffset": 51,
+        "displayName": "NYC-LAGUARDIA"
+      },
+      {
+        "startOffset": 66,
+        "endOffset": 73,
+        "displayName": "ATLANTA"
+      }
+    ],
+    "textContent": "Sat, 19MAR\nDELTA 529\nBasic (E)\nDEPART\nNYC-LAGUARDIA\n12:00N\nARRIVE\nATLANTA\n2:35pm\n\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 29,
+        "endOffset": 41,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 71,
+        "endOffset": 83,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 102,
+        "endOffset": 114,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 43,
+        "endOffset": 51,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 85,
+        "endOffset": 93,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 52,
+        "endOffset": 59,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 116,
+        "endOffset": 123,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 0,
+        "endOffset": 8,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 12,
+        "endOffset": 19,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "New York to Atlanta - DL 529\nMar 19, 2022, 12:00 PM-2:35 PM\n(\nTake-off\nMar 19, 2022, 12:00 PM\nLanding\nMar 19, 2022, 2:35 PM\nFlight duration\n2 hr, 35 min\n8\n8\nPassenger name\nBIENN VIQUIERA\nConfirmation number\nHQ57KG\nSeat\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 0,
+        "endOffset": 25,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 30,
+        "endOffset": 37,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 64,
+        "endOffset": 72,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 38,
+        "endOffset": 52,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 73,
+        "endOffset": 92,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Saturday, August 27, 2022\nORD\n7:30 AM\nChicago O'Hare\nAA 337\nLGA\n10:33 AM\nNew York La Guardia\nSeat:\nClass:\nMeals:\n15C\nEconomy (S)\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 0,
+        "endOffset": 23,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 28,
+        "endOffset": 36,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 104,
+        "endOffset": 111,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 37,
+        "endOffset": 48,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 112,
+        "endOffset": 126,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Friday, August 26, 2022\nLAX\n11:56 PM\nLos Angeles\nAA 2188\nA Flight arrives Saturday, August 27, 2022\nORD\n6:00 AM\nChicago O'Hare\nSeat:\nClass:\nMeals:\n15C\nEconomy (S)\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 76,
+        "endOffset": 88,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 132,
+        "endOffset": 144,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 90,
+        "endOffset": 98,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 146,
+        "endOffset": 154,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 113,
+        "endOffset": 120,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 177,
+        "endOffset": 184,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 43,
+        "endOffset": 54,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 58,
+        "endOffset": 65,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 213,
+        "endOffset": 220,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 224,
+        "endOffset": 232,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 24,
+        "endOffset": 27,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 30,
+        "endOffset": 33,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Your trip confirmation (LAX - LGA) Inbox x\nLos Angeles to Chicago - AA 2188\nAug 26, 2022, 11:56 PM-Aug 27, 2022, 6:00 AM\n\u24c7\nTake-off\nAug 26, 2022, 11:56 PM\nLanding\nAug 27, 2022, 6:00 AM\nFlight duration\n4 hr, 4 min\nChicago to New York - AA 337\nAug 27, 2022, 7:30 AM-10:33 AM\n8\n8\nPassenger name\nBIENN RAPHAEL\nConfirmation number\nYKQRMH\nSeat\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 319,
+        "endOffset": 346,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 347,
+        "endOffset": 355,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 356,
+        "endOffset": 369,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 370,
+        "endOffset": 383,
+        "displayName": "startLocation"
+      }
+    ],
+    "textContent": "Name:\nPhone:\nDirection:\nReservation Numbers: SC4859062 / SC4859070\nPassenger Information\nFirst Leg Details\nReservation #:\nService:\nPassengers:\nPick Up Date:\nThank you Bienn Viquiera for using\nGO Airlink NYC\nfor your transportation needs\nPick Up Location:\nBienn Viquiera\n(323) 684-1416\nDepartures\nSC4859062\nShared Van\n1\nWednesday, October 19, 2022\n04:00 AM\nGrand Central\nGrand Central\n125 E 42nd in front of TD Bank\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 498,
+        "endOffset": 522,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 523,
+        "endOffset": 531,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 532,
+        "endOffset": 543,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 544,
+        "endOffset": 557,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 558,
+        "endOffset": 571,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Arrival: Once you have collected your luggage, please follow the signs to\nthe ground transportation desk and advise the agent at the desk (wearing a\nred jacket) of your GO Airlink reservation. You may also call us at extension\n18 from the bank telephone located at ground transportation.\nPassenger Information\nName:\nPhone:\nTravel Details\nReservation #:\nService:\nDirection:\nPassengers:\nPick Up Date:\nPick Up Location:\nDrop Off Location:\nBienn Viquiera\n(323) 684-1416\nSC4859070\nShared Van\nArrivals\n1\nMonday, October 24, 2022\n07:45 AM\nJFK Airport\nGrand Central\nGrand Central\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 18,
+        "endOffset": 37,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 81,
+        "endOffset": 100,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 8,
+        "endOffset": 17,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 70,
+        "endOffset": 80,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 38,
+        "endOffset": 59,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 101,
+        "endOffset": 126,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Depart:\n8:55 a.m.\nSat., Nov. 21, 2020\nChicago, IL, US (ORD)\n\u2022 Arrive:\n11:27 a.m.\nSat., Nov. 21, 2020\nLos Angeles, CA, US (LAX)\nFlight Time:\n4 hr 32 mn\nTravel Time:\n8 hr 0 mn\nFlight distance:\n1,745 m\nTotal Distance:\n2,528 m\no Flight: UA1558\nO\n\u2022 Aircraft: Boeing 777-200\no Fare Class: United Economy (V)\n\u2022 Meal: Meals are not offered for this flight\nNo Special Meal Offered.\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 0,
+        "endOffset": 19,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 92,
+        "endOffset": 111,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 155,
+        "endOffset": 174,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 82,
+        "endOffset": 91,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 145,
+        "endOffset": 154,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 22,
+        "endOffset": 44,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 112,
+        "endOffset": 134,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 48,
+        "endOffset": 73,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Sat., Nov. 21, 2020 | Hartford, CT, US (BDL) to Los Angeles, CA, US (LAX)\nDepart:\n6:27 a.m.\nSat., Nov. 21, 2020\nHartford, CT, US (BDL)\n\u2022 Arrive:\n8:10 a.m.\nSat., Nov. 21, 2020\nChicago, IL, US (ORD)\nFlight Time:\n2 hr 43 mn\nFlight distance:\n783 m\nO Flight: UA4632\nOperated By Skywest Airlines dba United Express\nO Aircraft: Embraer 175\no Fare Class: United Economy (V)\no Meal: Meals are not offered for this flight\nNo Special Meal Offered.\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+  }
+  
+  {
+    "textSegmentAnnotations": [
+      {
+        "startOffset": 30,
+        "endOffset": 42,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 71,
+        "endOffset": 83,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 101,
+        "endOffset": 113,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 185,
+        "endOffset": 197,
+        "displayName": "date"
+      },
+      {
+        "startOffset": 44,
+        "endOffset": 51,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 85,
+        "endOffset": 92,
+        "displayName": "startTime"
+      },
+      {
+        "startOffset": 52,
+        "endOffset": 59,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 115,
+        "endOffset": 122,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 207,
+        "endOffset": 215,
+        "displayName": "endTime"
+      },
+      {
+        "startOffset": 0,
+        "endOffset": 8,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 12,
+        "endOffset": 19,
+        "displayName": "endLocation"
+      },
+      {
+        "startOffset": 152,
+        "endOffset": 159,
+        "displayName": "startLocation"
+      },
+      {
+        "startOffset": 163,
+        "endOffset": 174,
+        "displayName": "endLocation"
+      }
+    ],
+    "textContent": "Hartford to Chicago - UA 4632\nNov 21, 2020, 6:27 AM-8:10 AM\n(\nTake-off\nNov 21, 2020, 6:27 AM\nLanding\nNov 21, 2020, 8:10 AM\nFlight duration\n2 hr, 43 min\nChicago to Los Angeles - UA 1558\nNov 21, 2020, 8:55 AM-11:27 AM\n8\nB\nPassenger name\nYVONNE TRENH\nConfirmation number\nE24HVF\nSeat\n",
+    "dataItemResourceLabels": {
+      "aiplatform.googleapis.com/ml_use": "training"
+    }
+}
