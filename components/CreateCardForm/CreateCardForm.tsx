@@ -1,5 +1,5 @@
 'use client';
-import React, { useState } from 'react';
+import React, { FormEvent, useEffect, useState } from 'react';
 import './styles.css'
 
 
@@ -22,6 +22,26 @@ const CreateCardForm: React.FC<CreateCardFormProps> = ({ itineraryData }) => {
     const [startLocation, setStartLocation] = useState<string>(itineraryData.startLocation)
     const [endLocation, setEndLocation] = useState<string>(itineraryData.endLocation)
 
+    const [components, setComponents] = useState<Array<ItineraryJSON>>([])
+
+    useEffect(() => {
+        const storedComponents = JSON.parse(localStorage.getItem("components")!) || []
+        setComponents(storedComponents)
+    }, [])
+
+    const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
+        const newComponent : ItineraryJSON = {
+            date: date,
+            startTime: startTime,
+            endTime: endTime,
+            startLocation: startLocation,
+            endLocation: endLocation
+        }
+
+        const updatedComponents = [...components, newComponent]
+        setComponents(updatedComponents)
+        localStorage.setItem("components", JSON.stringify(updatedComponents))
+    }
 
     return (
         <div className="fixed inset-0 flex items-center justify-center z-10">
