@@ -20,9 +20,8 @@ export async function POST(req: Request) {
   const detections = result.textAnnotations;
 
   const text = detections![0].description;
-  const lines = text?.split("\n");
-
-  lines?.forEach(str => console.log(str + "\n"));
+  
+  console.log(text);
 
   return new Response("OK");
 }
